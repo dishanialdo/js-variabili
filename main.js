@@ -6,9 +6,9 @@ const nuovoTitolo = "Hello JS World"
 const annoDiNascita = 1998
 const annoCorrente = 2026
 const miaEta = annoCorrente - annoDiNascita
-const lavoro = "MEttalmecania"
+const lavoro = "Mettalmecania"
 const Nome = "Aldo"
-const Cognome = "Dishan"
+const Cognome = "Dishani"
 
 
-console.log(("L'utente si chiama" + Nome + Cognome + ", quindi ha" + miaEta + " anni e fa" + lavoro + ""));
+console.log(("L'utente si chiama " + Nome + " " + Cognome + ", quindi ha " + miaEta + " anni e fa " + lavoro + ""));
